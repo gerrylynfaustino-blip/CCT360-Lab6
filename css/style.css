@@ -1,0 +1,19 @@
+:root {
+    --bs-primary: #b88ac7;
+    --bs-primary-rgb: 184, 138, 199;
+    --bs-body-bg: #17151c;
+    --bs-body-color: #f5edf7;
+    --bs-border-color: #76677d;
+}
+
+.btn-solid.theme-primary {
+    background-color: #b88ac7;
+    border-color: #b88ac7;
+    color: #17151c;
+}
+
+.btn-solid.theme-primary:hover {
+    background-color: #d4b2df;
+    border-color: #d4b2df;
+    color: #17151c;
+}
